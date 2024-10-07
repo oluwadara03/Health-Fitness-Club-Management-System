@@ -1,4 +1,5 @@
 GitHub: https://github.com/oluwadara03/Health-Fitness-Club-Management-System
+Explanation Video: https://youtu.be/Wv84ngvxiMo
 
 Step 1: Download the source code from GitHub, and save it somewhere you can access.
 
